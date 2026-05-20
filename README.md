@@ -1,3 +1,4 @@
 # demo
 This is my first git repository
-Autho-Tanisha Shah
+<br>
+Author-Tanisha Shah
